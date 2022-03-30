@@ -1,0 +1,13 @@
+temp_dir: /mnt/temp
+uploads_dir: /mnt/uploads
+final_dir: /mnt/final
+
+db_path: /mnt/app/cravat-store.sqlite
+
+base_url: https://store.opencravat.org
+
+smtp_address: x.com
+email_sender: x@x.com
+
+admin_user: admin
+admin_pw: admin
